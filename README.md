@@ -9,7 +9,7 @@ We have integrated our MathAttack in the open-source tool OpenAttack.
 To attack victim model, you should install LLMs through HuggingFace, including Flan-T5-large; Flan-T5-xl; ChatGLM2.
 For ChatGPT, you should put your openAi-key in the main.py.
 
-## Fast run
+## Attack
 ```bash
 # download and preprocess child data
 python main.py
