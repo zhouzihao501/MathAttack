@@ -1,5 +1,4 @@
-# kNN-TL
-MathAttack: Attacking Large Language Models Towards Math Solving Ability (Under Reviewing AAAI2024)
+MathAttack: Attacking Large Language Models Towards Math Solving Ability
 ## Overview
 
 MathAttack is an effective method for attacking the math solving ability of large language models, including Logical Entity Recognition, Freezing Logical Entity and text Attack.
