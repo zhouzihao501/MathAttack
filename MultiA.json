@@ -1,0 +1,602 @@
+[
+  {
+    "x": "For Halloween Debby and her sister combined the candy they received. Debby had 32 pieces of candy while her sister had 42. If they ate 35 pieces the first night, how many pieces do they have left?",
+    "y": 39.0
+  },
+  {
+    "x": "A pet store had 13 siamese cats and 5 house cats. During a sale they sold 10 cats. How many cats do they have left?",
+    "y": 8.0
+  },
+  {
+    "x": "Luke was trying to expand his game collection. He bought 2 games from a friend and bought 2 more at a garage sale. If 2 of the games didn't work, how many good games did he end up with?",
+    "y": 2.0
+  },
+  {
+    "x": "The school cafeteria ordered 42 red apples and 7 green apples for students lunches. But, if only 9 students wanted fruit, how many extra did the cafeteria end up with?",
+    "y": 40.0
+  },
+  {
+    "x": "Lana picked 36 tulips and 37 roses to make flower bouquets. If she only used 70 of the flowers though, how many extra flowers did Lana pick?",
+    "y": 3.0
+  },
+  {
+    "x": "Carol and her mom were picking carrots from their garden. Carol picked 29 and her mother picked 16. If only 38 of the carrots were good, how many bad carrots did they have?",
+    "y": 7.0
+  },
+  {
+    "x": "Roger had 16 dollars. For his birthday he got 28 more dollars but spent 25 on a new game. How much money does he have now?",
+    "y": 19.0
+  },
+  {
+    "x": "While on vacation, Megan took 15 pictures at the zoo and 18 at the museum. If she later deleted 31 of the pictures, how many pictures from her vacation did she still have?",
+    "y": 2.0
+  },
+  {
+    "x": "Rachel bought two coloring books. One had 23 pictures and the other had 32. After one week she had already colored 44 of the pictures. How many pictures does she still have to color?",
+    "y": 11.0
+  },
+  {
+    "x": "Ned had to wash 9 short sleeve shirts and 21 long sleeve shirts before school. If he had only washed 29 of them by the time school started, how many did he not wash?",
+    "y": 1.0
+  },
+  {
+    "x": "Oliver had to wash 39 short sleeve shirts and 47 long sleeve shirts before school. If he had only washed 20 of them by the time school started, how many did he not wash?",
+    "y": 66.0
+  },
+  {
+    "x": "For the school bake sale Wendy made pastries. She baked 4 cupcakes and 29 cookies. After the sale she had 24 to take back home. How many pastries did she sell?",
+    "y": 9.0
+  },
+  {
+    "x": "While on vacation, Debby took 24 pictures at the zoo and 12 at the museum. If she later deleted 14 of the pictures, how many pictures from her vacation did she still have?",
+    "y": 22.0
+  },
+  {
+    "x": "Katie picked 3 tulips and 9 roses to make flower bouquets. If she only used 10 of the flowers though, how many extra flowers did Katie pick?",
+    "y": 2.0
+  },
+  {
+    "x": "Faye had 46 math problems and 9 science problems for homework. If she finished 40 of the problems at school, how many problems did she have to do for homework?",
+    "y": 15.0
+  },
+  {
+    "x": "Amy had 4 music files and 21 video files on her flash drive. If she deleted 23 of the files, how many files were still on her flash drive?",
+    "y": 2.0
+  },
+  {
+    "x": "Ned was trying to expand his game collection. He bought 11 games from a friend and bought 22 more at a garage sale. If 19 of the games didn't work, how many good games did he end up with?",
+    "y": 14.0
+  },
+  {
+    "x": "Chloe was playing a trivia game. In the first round she scored 40 points and in the second round she scored 50 points. In the last round she lost 4 points. How many points did she have at the end of the game?",
+    "y": 86.0
+  },
+  {
+    "x": "At the arcade, Tom won 32 tickets playing 'whack a mole' and 25 tickets playing 'skee ball'. If he spent 7 of his tickets on a hat, how many tickets does Tom have left?",
+    "y": 50.0
+  },
+  {
+    "x": "Bianca and her mom were picking carrots from their garden. Bianca picked 26 and her mother picked 15. If only 16 of the carrots were good, how many bad carrots did they have?",
+    "y": 25.0
+  },
+  {
+    "x": "For the school bake sale Katie made pastries. She baked 7 cupcakes and 5 cookies. After the sale she had 8 to take back home. How many pastries did she sell?",
+    "y": 4.0
+  },
+  {
+    "x": "Zoe bought two coloring books. One had 44 pictures and the other had 44. After one week she had already colored 20 of the pictures. How many pictures does she still have to color?",
+    "y": 68.0
+  },
+  {
+    "x": "John was trying to expand his game collection. He bought 21 games from a friend and bought 8 more at a garage sale. If 23 of the games didn't work, how many good games did he end up with?",
+    "y": 6.0
+  },
+  {
+    "x": "Henry had 11 dollars. For his birthday he got 18 more dollars but spent 10 on a new game. How much money does he have now?",
+    "y": 19.0
+  },
+  {
+    "x": "While on vacation, Gwen took 41 pictures at the zoo and 29 at the museum. If she later deleted 15 of the pictures, how many pictures from her vacation did she still have?",
+    "y": 55.0
+  },
+  {
+    "x": "Sam had to wash 40 short sleeve shirts and 23 long sleeve shirts before school. If he had only washed 29 of them by the time school started, how many did he not wash?",
+    "y": 34.0
+  },
+  {
+    "x": "A pet store had 12 siamese cats and 20 house cats. During a sale they sold 20 cats. How many cats do they have left?",
+    "y": 12.0
+  },
+  {
+    "x": "Faye and her mom were picking carrots from their garden. Faye picked 23 and her mother picked 5. If only 12 of the carrots were good, how many bad carrots did they have?",
+    "y": 16.0
+  },
+  {
+    "x": "The school cafeteria ordered 43 red apples and 32 green apples for students lunches. But, if only 2 students wanted fruit, how many extra did the cafeteria end up with?",
+    "y": 73.0
+  },
+  {
+    "x": "There were 39 girls and 4 boys trying out for the schools basketball team. If only 26 of them got called back, how many students didn't make the cut?",
+    "y": 17.0
+  },
+  {
+    "x": "A pet store had 38 siamese cats and 25 house cats. During a sale they sold 45 cats. How many cats do they have left?",
+    "y": 18.0
+  },
+  {
+    "x": "For the school bake sale Paige made pastries. She baked 36 cupcakes and 9 cookies. After the sale she had 4 to take back home. How many pastries did she sell?",
+    "y": 41.0
+  },
+  {
+    "x": "Carol was playing a trivia game. In the first round she scored 17 points and in the second round she scored 6 points. In the last round she lost 16 points. How many points did she have at the end of the game?",
+    "y": 7.0
+  },
+  {
+    "x": "Gwen bought two coloring books. One had 10 pictures and the other had 39. After one week she had already colored 13 of the pictures. How many pictures does she still have to color?",
+    "y": 36.0
+  },
+  {
+    "x": "For Halloween Janet and her sister combined the candy they received. Janet had 34 pieces of candy while her sister had 33. If they ate 4 pieces the first night, how many pieces do they have left?",
+    "y": 63.0
+  },
+  {
+    "x": "Haley and her mom were picking carrots from their garden. Haley picked 39 and her mother picked 38. If only 64 of the carrots were good, how many bad carrots did they have?",
+    "y": 13.0
+  },
+  {
+    "x": "There were 30 girls and 36 boys trying out for the schools basketball team. If only 10 of them got called back, how many students didn't make the cut?",
+    "y": 56.0
+  },
+  {
+    "x": "Roger had 29 dollars. For his birthday he got 20 more dollars but spent 34 on a new game. How much money does he have now?",
+    "y": 15.0
+  },
+  {
+    "x": "Dave had to wash 29 short sleeve shirts and 11 long sleeve shirts before school. If he had only washed 35 of them by the time school started, how many did he not wash?",
+    "y": 5.0
+  },
+  {
+    "x": "Edward was trying to expand his game collection. He bought 41 games from a friend and bought 14 more at a garage sale. If 31 of the games didn't work, how many good games did he end up with?",
+    "y": 24.0
+  },
+  {
+    "x": "At the schools book fair Sam bought 13 adventure books and 17 mystery books. If 15 of the books were used, how many new books did he buy?",
+    "y": 15.0
+  },
+  {
+    "x": "Amy had 26 music files and 36 video files on her flash drive. If she deleted 48 of the files, how many files were still on her flash drive?",
+    "y": 14.0
+  },
+  {
+    "x": "Oliver had 35 dollars. For his birthday he got 50 more dollars but spent 84 on a new game. How much money does he have now?",
+    "y": 1.0
+  },
+  {
+    "x": "Emily was playing a trivia game. In the first round she scored 16 points and in the second round she scored 33 points. In the last round she lost 48 points. How many points did she have at the end of the game?",
+    "y": 1.0
+  },
+  {
+    "x": "Paige had 43 math problems and 12 science problems for homework. If she finished 44 of the problems at school, how many problems did she have to do for homework?",
+    "y": 11.0
+  },
+  {
+    "x": "The school cafeteria ordered 33 red apples and 23 green apples for students lunches. But, if only 21 students wanted fruit, how many extra did the cafeteria end up with?",
+    "y": 35.0
+  },
+  {
+    "x": "Dave had to wash 9 short sleeve shirts and 27 long sleeve shirts before school. If he had only washed 20 of them by the time school started, how many did he not wash?",
+    "y": 16.0
+  },
+  {
+    "x": "While on vacation, Rachel took 6 pictures at the zoo and 9 at the museum. If she later deleted 11 of the pictures, how many pictures from her vacation did she still have?",
+    "y": 4.0
+  },
+  {
+    "x": "Vanessa and her mom were picking carrots from their garden. Vanessa picked 17 and her mother picked 14. If only 24 of the carrots were good, how many bad carrots did they have?",
+    "y": 7.0
+  },
+  {
+    "x": "A pet store had 41 siamese cats and 28 house cats. During a sale they sold 15 cats. How many cats do they have left?",
+    "y": 54.0
+  },
+  {
+    "x": "At the schools book fair Sam bought 13 adventure books and 17 mystery books. If 15 of the books were used, how many new books did he buy?",
+    "y": 15.0
+  },
+  {
+    "x": "Amy had 26 music files and 36 video files on her flash drive. If she deleted 48 of the files, how many files were still on her flash drive?",
+    "y": 14.0
+  },
+  {
+    "x": "Oliver had 35 dollars. For his birthday he got 50 more dollars but spent 84 on a new game. How much money does he have now?",
+    "y": 1.0
+  },
+  {
+    "x": "Emily was playing a trivia game. In the first round she scored 16 points and in the second round she scored 33 points. In the last round she lost 48 points. How many points did she have at the end of the game?",
+    "y": 1.0
+  },
+  {
+    "x": "Paige had 43 math problems and 12 science problems for homework. If she finished 44 of the problems at school, how many problems did she have to do for homework?",
+    "y": 11.0
+  },
+  {
+    "x": "The school cafeteria ordered 33 red apples and 23 green apples for students lunches. But, if only 21 students wanted fruit, how many extra did the cafeteria end up with?",
+    "y": 35.0
+  },
+  {
+    "x": "Dave had to wash 9 short sleeve shirts and 27 long sleeve shirts before school. If he had only washed 20 of them by the time school started, how many did he not wash?",
+    "y": 16.0
+  },
+  {
+    "x": "While on vacation, Rachel took 6 pictures at the zoo and 9 at the museum. If she later deleted 11 of the pictures, how many pictures from her vacation did she still have?",
+    "y": 4.0
+  },
+  {
+    "x": "Vanessa and her mom were picking carrots from their garden. Vanessa picked 17 and her mother picked 14. If only 24 of the carrots were good, how many bad carrots did they have?",
+    "y": 7.0
+  },
+  {
+    "x": "A pet store had 41 siamese cats and 28 house cats. During a sale they sold 15 cats. How many cats do they have left?",
+    "y": 54.0
+  },
+  {
+    "x": "Janet picked 4 tulips and 11 roses to make flower bouquets. If she only used 11 of the flowers though, how many extra flowers did Janet pick?",
+    "y": 4.0
+  },
+  {
+    "x": "Vanessa had 13 music files and 30 video files on her flash drive. If she deleted 10 of the files, how many files were still on her flash drive?",
+    "y": 33.0
+  },
+  {
+    "x": "Debby bought two coloring books. One had 16 pictures and the other had 40. After one week she had already colored 33 of the pictures. How many pictures does she still have to color?",
+    "y": 23.0
+  },
+  {
+    "x": "The school cafeteria ordered 8 red apples and 43 green apples for students lunches. But, if only 42 students wanted fruit, how many extra did the cafeteria end up with?",
+    "y": 9.0
+  },
+  {
+    "x": "Edward started his own lawn mowing business. In the spring he made 2 dollars mowing lawns and in the summer he made 27 dollars. If he had to spend 5 dollars buying supplies, how much money did he end up with?",
+    "y": 24.0
+  },
+  {
+    "x": "A pet store had 36 siamese cats and 18 house cats. During a sale they sold 26 cats. How many cats do they have left?",
+    "y": 28.0
+  },
+  {
+    "x": "Olivia and her mom were picking carrots from their garden. Olivia picked 20 and her mother picked 14. If only 19 of the carrots were good, how many bad carrots did they have?",
+    "y": 15.0
+  },
+  {
+    "x": "George had 30 dollars. For his birthday he got 16 more dollars but spent 38 on a new game. How much money does he have now?",
+    "y": 8.0
+  },
+  {
+    "x": "There were 6 girls and 48 boys trying out for the schools basketball team. If only 7 of them got called back, how many students didn't make the cut?",
+    "y": 47.0
+  },
+  {
+    "x": "For the school bake sale Amy made pastries. She baked 15 cupcakes and 48 cookies. After the sale she had 12 to take back home. How many pastries did she sell?",
+    "y": 51.0
+  },
+  {
+    "x": "At the schools book fair Victor bought 32 adventure books and 37 mystery books. If 16 of the books were used, how many new books did he buy?",
+    "y": 53.0
+  },
+  {
+    "x": "While on vacation, Haley took 50 pictures at the zoo and 8 at the museum. If she later deleted 38 of the pictures, how many pictures from her vacation did she still have?",
+    "y": 20.0
+  },
+  {
+    "x": "The school cafeteria ordered 37 red apples and 45 green apples for students lunches. But, if only 51 students wanted fruit, how many extra did the cafeteria end up with?",
+    "y": 31.0
+  },
+  {
+    "x": "While shopping, Maria bought 35 green towels and 21 white towels. If she gave her mother 34 of them, how many towels did Maria end up with?",
+    "y": 22.0
+  },
+  {
+    "x": "There were 17 girls and 32 boys trying out for the schools basketball team. If only 10 of them got called back, how many students didn't make the cut?",
+    "y": 39.0
+  },
+  {
+    "x": "Nancy and her mom were picking carrots from their garden. Nancy picked 38 and her mother picked 47. If only 71 of the carrots were good, how many bad carrots did they have?",
+    "y": 14.0
+  },
+  {
+    "x": "A waiter at 'The Greasy Spoon' restaurant had 29 customers to wait on. During the lunch rush he added another 20 customers. If 34 of the customers didn't leave him a tip, how many customers did leave a tip?",
+    "y": 15.0
+  },
+  {
+    "x": "Tom had to wash 10 short sleeve shirts and 25 long sleeve shirts before school. If he had only washed 5 of them by the time school started, how many did he not wash?",
+    "y": 30.0
+  },
+  {
+    "x": "Vanessa had 16 music files and 48 video files on her flash drive. If she deleted 30 of the files, how many files were still on her flash drive?",
+    "y": 34.0
+  },
+  {
+    "x": "Kaleb started his own lawn mowing business. In the spring he made 4 dollars mowing lawns and in the summer he made 50 dollars. If he had to spend 4 dollars buying supplies, how much money did he end up with?",
+    "y": 50.0
+  },
+  {
+    "x": "The school cafeteria ordered 6 red apples and 15 green apples for students lunches. But, if only 5 students wanted fruit, how many extra did the cafeteria end up with?",
+    "y": 16.0
+  },
+  {
+    "x": "Bianca picked 39 tulips and 49 roses to make flower bouquets. If she only used 81 of the flowers though, how many extra flowers did Bianca pick?",
+    "y": 7.0
+  },
+  {
+    "x": "While on vacation, Nancy took 49 pictures at the zoo and 8 at the museum. If she later deleted 38 of the pictures, how many pictures from her vacation did she still have?",
+    "y": 19.0
+  },
+  {
+    "x": "Gwen had 18 math problems and 11 science problems for homework. If she finished 24 of the problems at school, how many problems did she have to do for homework?",
+    "y": 5.0
+  },
+  {
+    "x": "For Halloween Katie and her sister combined the candy they received. Katie had 10 pieces of candy while her sister had 6. If they ate 9 pieces the first night, how many pieces do they have left?",
+    "y": 7.0
+  },
+  {
+    "x": "A pet store had 15 siamese cats and 49 house cats. During a sale they sold 19 cats. How many cats do they have left?",
+    "y": 45.0
+  },
+  {
+    "x": "There were 9 girls and 14 boys trying out for the schools basketball team. If only 2 of them got called back, how many students didn't make the cut?",
+    "y": 21.0
+  },
+  {
+    "x": "Haley had 27 music files and 42 video files on her flash drive. If she deleted 11 of the files, how many files were still on her flash drive?",
+    "y": 58.0
+  },
+  {
+    "x": "While shopping, Maria bought 40 green towels and 44 white towels. If she gave her mother 65 of them, how many towels did Maria end up with?",
+    "y": 19.0
+  },
+  {
+    "x": "A waiter at 'The Greasy Spoon' restaurant had 39 customers to wait on. During the lunch rush he added another 12 customers. If 49 of the customers didn't leave him a tip, how many customers did leave a tip?",
+    "y": 2.0
+  },
+  {
+    "x": "A pet store had 19 siamese cats and 45 house cats. During a sale they sold 56 cats. How many cats do they have left?",
+    "y": 8.0
+  },
+  {
+    "x": "A waiter at 'The Greasy Spoon' restaurant had 26 customers to wait on. During the lunch rush he added another 27 customers. If 27 of the customers didn't leave him a tip, how many customers did leave a tip?",
+    "y": 26.0
+  },
+  {
+    "x": "Rachel bought two coloring books. One had 24 pictures and the other had 39. After one week she had already colored 4 of the pictures. How many pictures does she still have to color?",
+    "y": 59.0
+  },
+  {
+    "x": "While shopping, Emily bought 5 green towels and 30 white towels. If she gave her mother 26 of them, how many towels did Emily end up with?",
+    "y": 9.0
+  },
+  {
+    "x": "For Halloween Katie and her sister combined the candy they received. Katie had 8 pieces of candy while her sister had 23. If they ate 8 pieces the first night, how many pieces do they have left?",
+    "y": 23.0
+  },
+  {
+    "x": "Ned was trying to expand his game collection. He bought 50 games from a friend and bought 27 more at a garage sale. If 74 of the games didn't work, how many good games did he end up with?",
+    "y": 3.0
+  },
+  {
+    "x": "For the school bake sale Wendy made pastries. She baked 41 cupcakes and 31 cookies. After the sale she had 32 to take back home. How many pastries did she sell?",
+    "y": 40.0
+  },
+  {
+    "x": "The school cafeteria ordered 25 red apples and 17 green apples for students lunches. But, if only 10 students wanted fruit, how many extra did the cafeteria end up with?",
+    "y": 32.0
+  },
+  {
+    "x": "At the arcade, Jerry won 29 tickets playing 'whack a mole' and 17 tickets playing 'skee ball'. If he spent 12 of his tickets on a hat, how many tickets does Jerry have left?",
+    "y": 34.0
+  },
+  {
+    "x": "Cody had 45 dollars. For his birthday he got 9 more dollars but spent 19 on a new game. How much money does he have now?",
+    "y": 35.0
+  },
+  {
+    "x": "For the school bake sale Carol made 30 cupcakes. If she sold 9 of them and then made 28 more, how many cupcakes would she have?",
+    "y": 49.0
+  },
+  {
+    "x": "For Halloween Faye scored 47 pieces of candy. She ate 25 pieces the first night and then her sister gave her 40 more pieces. How many pieces of candy does Faye have now?",
+    "y": 62.0
+  },
+  {
+    "x": "Kaleb had 34 books. If he sold 17 of them and used the money he earned to buy 7 new books, how many books would Kaleb have?",
+    "y": 24.0
+  },
+  {
+    "x": "In fourth grade there were 10 students at the start of the year. During the year 4 students left and 42 new students came to school. How many students were in fourth grade at the end?",
+    "y": 48.0
+  },
+  {
+    "x": "Oliver had 33 dollars in January. By March he had spent 4 dollars. If he got another 32 dollars from his mom, how much money would he have?",
+    "y": 61.0
+  },
+  {
+    "x": "A florist had 37 roses. If she sold 16 of them and then later picked 19 more, how many roses would she have?",
+    "y": 40.0
+  },
+  {
+    "x": "A teacher had 6 worksheets to grade. If she graded 4, but then another 18 were turned in, how many worksheets would she have to grade?",
+    "y": 20.0
+  },
+  {
+    "x": "A book store had 41 books in the bargin bin. If they sold 33 books, but then put 2 more in the bin, how many books would be in the bin?",
+    "y": 10.0
+  },
+  {
+    "x": "A waiter had 19 customers to wait on. If 14 customers left and he got another 36 customers, how many customers would he have?",
+    "y": 41.0
+  },
+  {
+    "x": "At the fair there were 9 people in line for the bumper cars. If 6 of them got tired of waiting and left and 3 more got in line, how many people would be in line?",
+    "y": 6.0
+  },
+  {
+    "x": "A teacher had 7 worksheets to grade. If she graded 2, but then another 46 were turned in, how many worksheets would she have to grade?",
+    "y": 51.0
+  },
+  {
+    "x": "Paige had 8 songs on her mp3 player. If she deleted 5 old songs from it and then added 30 new songs, how many songs does she have on her mp3 player?",
+    "y": 33.0
+  },
+  {
+    "x": "Maria picked 48 carrots from her garden. If she threw out 11 of them and then picked 15 more the next day, how many carrots would she have total?",
+    "y": 52.0
+  },
+  {
+    "x": "A store had 34 oranges in a bin. If they threw away 20 of the old ones and put 13 new ones in the bin how many would be in the bin?",
+    "y": 27.0
+  },
+  {
+    "x": "A waiter had 47 customers to wait on. If 41 customers left and he got another 20 customers, how many customers would he have?",
+    "y": 26.0
+  },
+  {
+    "x": "In fourth grade there were 33 students at the start of the year. During the year 18 students left and 14 new students came to school. How many students were in fourth grade at the end?",
+    "y": 29.0
+  },
+  {
+    "x": "For the school bake sale Katie made 26 cupcakes. If she sold 20 of them and then made 20 more, how many cupcakes would she have?",
+    "y": 26.0
+  },
+  {
+    "x": "Adam had 5 dollars. At the store he spent $2 on a new game. If he got another 5 dollars for his allowance, how much money does he have now?",
+    "y": 8.0
+  },
+  {
+    "x": "Tiffany was playing a video game and had 43 lives. In a hard part of the game she lost 14 lives. If she got 27 more lives in the next level, how many lives would she have?",
+    "y": 56.0
+  },
+  {
+    "x": "At the fair there were 12 people in line for the bumper cars. If 10 of them got tired of waiting and left and 15 more got in line, how many people would be in line?",
+    "y": 17.0
+  },
+  {
+    "x": "A waiter had 14 customers to wait on. If 3 customers left and he got another 39 customers, how many customers would he have?",
+    "y": 50.0
+  },
+  {
+    "x": "At the fair there were 30 people in line for the bumper cars. If 10 of them got tired of waiting and left and 5 more got in line, how many people would be in line?",
+    "y": 25.0
+  },
+  {
+    "x": "Faye had 34 coloring books. If she gave away 3 of them, but then bought 48 more, how many would she have total?",
+    "y": 79.0
+  },
+  {
+    "x": "Paige had 11 songs on her mp3 player. If she deleted 9 old songs from it and then added 8 new songs, how many songs does she have on her mp3 player?",
+    "y": 10.0
+  },
+  {
+    "x": "A teacher had 38 worksheets to grade. If she graded 4, but then another 15 were turned in, how many worksheets would she have to grade?",
+    "y": 49.0
+  },
+  {
+    "x": "In fourth grade there were 40 students at the start of the year. During the year 14 students left and 26 new students came to school. How many students were in fourth grade at the end?",
+    "y": 52.0
+  },
+  {
+    "x": "Wendy was playing a video game and had 43 lives. In a hard part of the game she lost 8 lives. If she got 39 more lives in the next level, how many lives would she have?",
+    "y": 74.0
+  },
+  {
+    "x": "A book store had 4 books in the bargin bin. If they sold 3 books, but then put 10 more in the bin, how many books would be in the bin?",
+    "y": 11.0
+  },
+  {
+    "x": "At the arcade Cody won 49 tickets. If he spent 25 tickets on a beanie and later won 6 more tickets, how many would he have?",
+    "y": 30.0
+  },
+  {
+    "x": "For the school bake sale Bianca made 14 cupcakes. If she sold 6 of them and then made 17 more, how many cupcakes would she have?",
+    "y": 25.0
+  },
+  {
+    "x": "Bianca had 45 coloring books. If she gave away 6 of them, but then bought 20 more, how many would she have total?",
+    "y": 59.0
+  },
+  {
+    "x": "Zoe had 15 songs on her mp3 player. If she deleted 8 old songs from it and then added 50 new songs, how many songs does she have on her mp3 player?",
+    "y": 57.0
+  },
+  {
+    "x": "At the arcade Jerry won 4 tickets. If he spent 2 tickets on a beanie and later won 47 more tickets, how many would he have?",
+    "y": 49.0
+  },
+  {
+    "x": "A store had 31 oranges in a bin. If they threw away 9 of the old ones and put 38 new ones in the bin how many would be in the bin?",
+    "y": 60.0
+  },
+  {
+    "x": "Adam had 33 books. If he sold 11 of them and used the money he earned to buy 23 new books, how many books would Adam have?",
+    "y": 45.0
+  },
+  {
+    "x": "At the fair there were 10 people in line for the bumper cars. If 2 of them got tired of waiting and left and 2 more got in line, how many people would be in line?",
+    "y": 10.0
+  },
+  {
+    "x": "The school cafeteria had 38 apples. If they used 20 to make lunch for the students and then bought 28 more, how many apples would they have?",
+    "y": 46.0
+  },
+  {
+    "x": "George had 28 socks. If he threw away 4 old ones that didn't fit and bought 36 new ones, how many socks would he have?",
+    "y": 60.0
+  },
+  {
+    "x": "For Halloween Robin scored 23 pieces of candy. She ate 7 pieces the first night and then her sister gave her 21 more pieces. How many pieces of candy does Robin have now?",
+    "y": 37.0
+  },
+  {
+    "x": "Rachel was playing a video game and had 10 lives. In a hard part of the game she lost 4 lives. If she got 26 more lives in the next level, how many lives would she have?",
+    "y": 32.0
+  },
+  {
+    "x": "A florist had 6 roses. If she sold 5 of them and then later picked 12 more, how many roses would she have?",
+    "y": 13.0
+  },
+  {
+    "x": "For Halloween Haley scored 33 pieces of candy. She ate 17 pieces the first night and then her sister gave her 19 more pieces. How many pieces of candy does Haley have now?",
+    "y": 35.0
+  },
+  {
+    "x": "The school cafeteria had 14 apples. If they used 13 to make lunch for the students and then bought 49 more, how many apples would they have?",
+    "y": 50.0
+  },
+  {
+    "x": "Edward had 43 books. If he sold 19 of them and used the money he earned to buy 14 new books, how many books would Edward have?",
+    "y": 38.0
+  },
+  {
+    "x": "A teacher had 29 worksheets to grade. If she graded 25, but then another 29 were turned in, how many worksheets would she have to grade?",
+    "y": 33.0
+  },
+  {
+    "x": "In fourth grade there were 35 students at the start of the year. During the year 10 students left and 10 new students came to school. How many students were in fourth grade at the end?",
+    "y": 35.0
+  },
+  {
+    "x": "For the school bake sale Carol made 19 cupcakes. If she sold 6 of them and then made 27 more, how many cupcakes would she have?",
+    "y": 40.0
+  },
+  {
+    "x": "A store had 40 oranges in a bin. If they threw away 37 of the old ones and put 7 new ones in the bin how many would be in the bin?",
+    "y": 10.0
+  },
+  {
+    "x": "At the arcade Victor won 46 tickets. If he spent 27 tickets on a beanie and later won 39 more tickets, how many would he have?",
+    "y": 58.0
+  },
+  {
+    "x": "Chloe picked 48 carrots from her garden. If she threw out 45 of them and then picked 42 more the next day, how many carrots would she have total?",
+    "y": 45.0
+  }
+]
