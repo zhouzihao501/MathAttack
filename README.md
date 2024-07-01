@@ -1,4 +1,4 @@
-[MathAttack: Attacking Large Language Models Towards Math Solving Ability](https://arxiv.org/abs/2309.01686)
+[MathAttack: Attacking Large Language Models Towards Math Solving Ability](https://ojs.aaai.org/index.php/AAAI/article/view/29949)
 ## Overview
 <h1 align='center'>
   <br>
